@@ -1,2 +1,2 @@
 # MenuParks97
-Menu QR hecho para Cafeteria Parks 97. Coslada, Madrid.
+QR hecho para Cafeteria Parks 97. Coslada, Madrid.
